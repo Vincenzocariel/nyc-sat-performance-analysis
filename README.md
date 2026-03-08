@@ -20,3 +20,5 @@ The dataset contains SAT results from NYC public schools.
 ## Files
 - notebook.ipynb → Data analysis notebook
 - schools.csv → Dataset used for the analysis
+
+If you can't access the notebook you can view it here: https://nbviewer.org/github/Vincenzocariel/nyc-sat-performance-analysis/blob/main/code.ipynb#
